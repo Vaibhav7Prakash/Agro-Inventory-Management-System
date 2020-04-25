@@ -1,0 +1,2 @@
+# Agro-Inventory-Management-System
+Welcome to the repository !  This is a DBMS project developed in Java using Java Server Pages (JSP) and MySQL with JDBC used for Database Connectivity. The project was aimed to create a bridge between farmers and wholesalers to eliminate the commission charged by middle men. Farmers and Wholesalers can login to their respective account and find nearby traders around their area. It is a standalone application which has additional features such as tracking the current stock available, viewing previous trade records etc.
